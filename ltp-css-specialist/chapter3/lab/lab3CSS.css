@@ -1,0 +1,17 @@
+.image{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    float: right;  
+    border-style: dashed;
+    border-width: 10px;
+    border-color: blue;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    outline-style: groove;
+    outline-width: 25px;
+    outline-color: yellow;
+}
+

@@ -1,0 +1,37 @@
+h1{
+    font-family: Rancho;
+}
+
+ul {
+    list-style-type: square; 
+    
+}
+
+body {
+    background-image: url("IMG_1579.JPG");
+    background-repeat: no-repeat;
+    background-size: 1020px 620px;
+    background-position:  top center;
+}
+
+#my_menu .submenu ul{
+    display: none;
+    background-color: white;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+    margin-top: 0px;
+    padding: 20px;
+}
+#my_menu .submenu:hover ul{
+    display: block;
+}
+
+#my_menu{
+    background-color: lightcyan;
+}
+
+#my_menu td{
+    padding-left: 20px;
+    padding-right: 20px;
+}
